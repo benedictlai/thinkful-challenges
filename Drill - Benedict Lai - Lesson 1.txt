@@ -1,0 +1,28 @@
+1. The goal is to make as much as profit as possible. I will be using linear programming to calculate the profit.
+EP stands for Expected Profits.
+If * = Widgets,
+then:
+EP(Widgets) = Profit(Widget) * Sales(widgets|widgets) + Profit(doodads)*Sales(doodad|widgets) + Profits(fizzbang)*Sales(fizzbangs|widgets)
+where:
+Profit(*) means a sale from a single item while Sales (*|#) indicates the projected quantity of sales.
+To maximize the profit, the formula is equaled to max{EP(Widgets), EP(doodads), EP(fizzbangs)}.
+
+2. Questions I have for this question:  
+- Are there any other options acquiring clients? 
+- Is there a timeframe of when we will acquire those clients? Should they call customer service?
+- How did we lose those customers during the onboarding funnel? 
+- The reason why for the decline of the signups for the clients is due to the onboarding funnel being disorganized.
+Here are my theories of this question:
+The declining sales may have a negative effect on those website signups. 
+The clients will not give their money to the company due to insufficient funds. 
+The process of the form may have confused the clients. 
+
+3. The session information indicates what the customer prefers in a hotel room, which includes if they need a refrigerator, how many beds they want, if a couch is a necessary, etc. Based on this question, I assume the customer will be choosing a room in a hotel instead of choosing a hotel.
+For the ranking system, we should the rank these preferences by importance from "uninterested" (1), "neutral (no preference)" (1), "interested" (2), "high priority" (3).
+
+4. I should detect the churn to determine if the churn is atypical. For example, an article from James Jorner states the reason for churning is that a company has no control over how many users unfollow them and there is no reason to sweat over those lost followers (Jorner, 2018). Also, a company failing to improve in content resulted in unfollowing could be another reason for churning (Jorner, 2018).  The way that companies like us should deal with churning is to not be instant in shadowing them back. This indicates that a company may follow another business account but they will not be surprised if they do not follow them back (Jorner, 2018). Another way is to be the bigger person in gaining followers instead of using inappropriate guidelines that could jeopardize a company. Unfortunately, companies break rules to earn more followers (Jorner, 2018). Last, but not least, is that we should ensure that the content on our company’s website meets or exceeds a follower’s needs for the content (Jorner, 2018).
+															Works Cited
+															References
+Jorner, J. (2018, August 24). How should businesses cope with social media churn? 
+Retrieved from https://www.adweek.com/digital/how-should-businesses-cope-with-social-media-churn/
+
