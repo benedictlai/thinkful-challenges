@@ -1,0 +1,10 @@
+SELECT trip_id, duration
+FROM trips
+WHERE duration > 500
+ORDER BY duration DESC
+
+SELECT * from STATIONS
+WHERE station_id = 84
+
+SELECT mintemperaturef FROM weather
+WHERE events like 'Rain' AND zip = 94301
