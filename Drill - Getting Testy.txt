@@ -1,0 +1,35 @@
+Two versions: old vs. new supplement
+Sample: We test people who take new supplement and how many hours they get of sleep while we test 
+the others who take the old supplement and how many hours they sleep.
+Hypothesis: We anticipate those people who take the new supplement to improve in their sleep.
+Outcome: Will people's brains get affected by taking the new supplement?
+Other measured variables: The people's characteristics in this old vs. new experiment
+are gender, age, height, health problems, etc. People who take the new supplement sleep better at night.
+Therefore, we will promote the new supplement for new customers who want to sleep better.
+
+Two versions: old vs. new uniforms
+A sample: The number of gym memberships before and after new uniform.
+Hypothesis: We anticipate the new uniform will improve gym memberships and business.
+Outcome: On a daily basis, has the number of people attending the gym improved after the new uniform?
+Other measured variables: The people's characteristics in this old vs. new uniforms experiment
+are gender, age, etc. Because of the new uniform, gym membership has improved. Therefore, we know
+that business has improved for the gym.
+
+Two versions: old vs. new homepage
+A sample: The number of customers who purchased during the old and new homepage.
+Hypothesis: We anticipate the new homepage will improve in business.
+Outcome: Will the new homepage bring in more new customers?
+Other measured variables: The people's characteristics in this old vs. new homepage experiment
+are gender, age, etc. The number of customers purchasing after the new homepage have improved. 
+Therefore, the business has improved for the online exotic pet rentals because of the new homepage.
+
+Two versions: 'please read' vs. non-'please read'
+A sample: Group of internet users who received emails that involved "please read" and other group of users
+not receiving in the form of "please read" in the subject line.
+Hypothesis: We anticipate the subject line involving "Please Read" will cause internet users to click their e-mails.
+Outcome: How many more clicks are involved after the subject line has "Please Read"?
+Other measured variables: The people's characteristics in this 'please read' vs. non-'please read'
+experiment are gender, age, etc.
+Internet users click more for the subject line e-mails of 'please read'. Therefore,
+adding 'please read' will improve in clicks. We should promote adding 'please read' for future e-mails
+in the subject line.
